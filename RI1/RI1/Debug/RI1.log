@@ -1,0 +1,5 @@
+﻿  pr1.cpp
+  RI1.cpp
+  Создание кода...
+RI1.obj : error LNK2005: _main уже определен в pr1.obj
+C:\ну лп\Student\RI1\Debug\RI1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
